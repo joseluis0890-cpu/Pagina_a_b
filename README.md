@@ -8,8 +8,8 @@ El objetivo de este proyecto es evaluar un **experimento A/B** realizado en una 
 El archivo landing_experiment.csv contiene información de usuarios expuestos a dos versiones de la página de inicio (landing page) dentro del experimento A/B. Incluye región, dispositivo, fuente de tráfico, tipo de usuario, conversión y gasto.
 
 # Dataset
-landing_experiment.csv
 
+landing_experiment.csv
 
 
 # Etapas del análisis realizado
